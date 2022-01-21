@@ -1,1 +1,1 @@
-Gáy về cần
+console.log("Hello World");
